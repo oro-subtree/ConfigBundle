@@ -1,4 +1,4 @@
-system_configuration:
+oro_system_configuration:
     groups:
         platform:
             title: oro.config.system_configuration.groups.platform.title
